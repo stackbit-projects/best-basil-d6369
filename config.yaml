@@ -6,7 +6,7 @@ params:
   palette: green
   header:
     title: Ampersand
-    logo_img_alt: Ampersand Logo
+    logo_img_alt: 'Cisa '
     has_nav: true
     nav_links:
       - label: Home
