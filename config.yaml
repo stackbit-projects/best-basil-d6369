@@ -56,13 +56,6 @@ params:
         style: icon
         icon_class: fa-dev
         new_window: true
-      - label: lorem-ipsum
-        url: lorem-ipsum
-        style: link
-        icon_class: lorem-ipsum
-        new_window: false
-        no_follow: false
-        type: action
     has_subscribe: true
     subscribe_title: Subscribe for new updates
     subscribe_content: >-
