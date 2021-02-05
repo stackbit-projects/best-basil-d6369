@@ -5,7 +5,7 @@ params:
   layout_style: grid
   palette: green
   header:
-    title: Ampersand
+    title: Cisa Web
     logo_img_alt: Cisa Web
     has_nav: true
     nav_links:
