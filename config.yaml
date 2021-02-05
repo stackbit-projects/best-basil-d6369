@@ -12,7 +12,7 @@ params:
       - label: Home
         url: /
         style: link
-      - label: About
+      - label: Chi Sono
         url: /about
         style: link
         new_window: false
