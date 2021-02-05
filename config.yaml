@@ -16,7 +16,7 @@ params:
       - label: About
         url: /about
         style: link
-        new_window: true
+        new_window: false
       - label: Style Guide
         url: /style-guide
         style: link
